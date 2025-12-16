@@ -19,7 +19,7 @@ Chapter 1
 11 And it came to pass that he stood before Alma and pleaded for himself with much boldness.
 12 But Alma said unto him: Behold, this is the first time that priestcraft has been introduced among this people. And behold, thou art not only guilty of priestcraft, but hast endeavored to enforce it by the sword; and were priestcraft to be enforced among this people it would prove their entire destruction.
 13 And thou hast shed the blood of a righteous man, yea, a man who has done much good among this people; and were we to spare thee his blood would come upon us for vengeance.
-14 Therefore thou art condemned to die, according to the law which has been given us by Mosiah, our last king; and it has been acknowledged by this people; therefore this people must abide by the law,
+14 Therefore thou art condemned to die, according to the law which has been given us by Mosiah, our last king; and it has been acknowledged by this people; therefore this people must abide by the law.
 15 And it came to pass that they took him; and his name was Nehor; and they carried him upon the top of the hill Manti, and there he was caused, or rather did acknowledge, between the heavens and the earth, that what he had taught to the people was contrary to the word of God; and there he suffered an ignominious death.
 16 Nevertheless, this did not put an end to the spreading of priestcraft through the land; for there were many who loved the vain things of the world, and they went forth preaching false doctrines; and this they did for the sake of riches and honor.
 17 Nevertheless, they durst not lie, if it were known, for fear of the law, for liars were punished; therefore they pretended to preach according to their belief; and now the law could have no power on any man for his belief.
@@ -134,6 +134,8 @@ Chapter 4
 19 And this he did that he himself might go forth among his people, or among the people of Nephi, that he might preach the word of God unto them, to stir them up in remembrance of their duty, and that he might pull down, by the word of God, all the pride and craftiness and all the contentions which were among his people, seeing no way that he might reclaim them save it were in bearing down in pure testimony against them.
 20 And thus in the commencement of the ninth year of the reign of the judges over the people of Nephi, Alma delivered up the judgment-seat to Nephihah, and confined himself wholly to the high priesthood of the holy order of God, to the testimony of the word, according to the spirit of revelation and prophecy.
 
+The words which Alma, the High Priest, according to the holy order of God, delivered to the people in their cities and villages throughout the land.
+
 Chapter 5
 
 1 Now it came to pass that Alma began to deliver the word of God unto the people, first in the land of Zarahemla, and from thence throughout all the land.
@@ -153,14 +155,14 @@ Chapter 5
 15 Do ye exercise faith in the redemption of him who created you? Do you look forward with an eye of faith, and view this mortal body raised in immortality, and this corruption raised in incorruption, to stand before God to be judged according to the deeds which have been done in the mortal body?
 16 I say unto you, can you imagine to yourselves that ye hear the voice of the Lord, saying unto you, in that day: Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?
 17 Or do ye imagine to yourselves that ye can lie unto the Lord in that day, and say—Lord, our works have been righteous works upon the face of the earth—and that he will save you?
-18 Or otherwise, can ye Imagine yourselves brought before the tribunal of God with your souls filled with guilt and remorse, having a remembrance of all your guilt, yea, a perfect remembrance of all your wickedness, yea, a remembrance that ye have set at defiance the commandments of God?
+18 Or otherwise, can ye imagine yourselves brought before the tribunal of God with your souls filled with guilt and remorse, having a remembrance of all your guilt, yea, a perfect remembrance of all your wickedness, yea, a remembrance that ye have set at defiance the commandments of God?
 19 I say unto you, can ye look up to God at that day with a pure heart and clean hands? I say unto you, can you look up, having the image of God engraven upon your countenances?
 20 I say unto you, can ye think of being saved when you have yielded yourselves to become subjects to the devil?
 21 I say unto you, ye will know at that day that ye cannot be saved; for there can no man be saved except his garments are washed white; yea, his garments must be purified until they are cleansed from all stain, through the blood of him of whom it has been spoken by our fathers, who should come to redeem his people from their sins.
 22 And now I ask of you, my brethren, how will any of you feel, if ye shall stand before the bar of God, having your garments stained with blood and all manner of filthiness? Behold, what will these things testify against you?
 23 Behold will they not testify that ye are murderers, yea, and also that ye are guilty of all manner of wickedness?
 24 Behold, my brethren, do ye suppose that such an one can have a place to sit down in the kingdom of God, with Abraham, with Isaac, and with Jacob, and also all the holy prophets, whose garments are cleansed and are spotless, pure and white?
-26 I say unto you, Nay; except ye make our Creator a liar from the beginning, or suppose that he is a liar from the beginning, ye cannot suppose that such can have place in the kingdom of heaven; but they shall be cast out for they are the children of the kingdom of the devil.
+25 I say unto you, Nay; except ye make our Creator a liar from the beginning, or suppose that he is a liar from the beginning, ye cannot suppose that such can have place in the kingdom of heaven; but they shall be cast out for they are the children of the kingdom of the devil.
 26 And now behold, I say unto you, my brethren, if ye have experienced a change of heart, and if ye have felt to sing the song of redeeming love, I would ask, can ye feel so now?
 27 Have ye walked, keeping yourselves blameless before God? Could ye say, if ye were called to die at this time, within yourselves, that ye have been sufficiently humble? That your garments have been cleansed and made white through the blood of Christ, who will come to redeem his people from their sins?
 28 Behold, are ye stripped of pride? I say unto you, if ye are not ye are not prepared to meet God. Behold ye must prepare quickly; for the kingdom of heaven is soon at hand, and such an one hath not eternal life.
@@ -1812,7 +1814,7 @@ Chapter  53
 22 And now it came to pass that Helaman did march at the head of his two thousand stripling soldiers, to the support of the people in the borders of the land on the south by the west sea.
 23 And thus ended the twenty and eighth year of the reign of the judges over the people of Nephi.
 
-Alma Chapter 54
+Chapter 54
 
 1 And now it came to pass in the twenty and ninth year of the judges, that Ammoron sent unto Moroni desiring that he would exchange prisoners.
 2 And it came to pass that Moroni felt to rejoice exceedingly at this request, for he desired the provisions which were imparted for the support of the Lamanite prisoners for the support of his own people; and he also desired his own people for the strengthening of his army.
@@ -1877,7 +1879,7 @@ Chapter
 34 And they were continually bringing new forces into that city, and also new supplies of provisions.
 35 And thus ended the twenty and ninth year of the reign of the judges over the people of Nephi.
 
-Alma Chapter 56
+Chapter 56
 
 1 And now it came to pass in the commencement of the thirtieth year of the reign of the judges, on the second day in the first month, Moroni received an epistle from Helaman, stating the affairs of the people in that quarter of the land.
 2 And these are the words which he wrote, saying: My dearly beloved brother, Moroni, as well in the Lord as in the tribulations of our warfare; behold, my beloved brother, I have somewhat to tell you concerning our warfare in this part of the land.
@@ -1937,7 +1939,7 @@ Alma Chapter 56
 56 But behold, to my great joy, there had not one soul of them fallen to the earth; yea, and they had fought as if with the strength of God; yea, never were men known to have fought with such miraculous strength; and with such mighty power did they fall upon the Lamanites, that they did frighten them; and for this cause did the Lamanites deliver themselves up as prisoners of war.
 57 And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men who were not slain of Antipus, with them; and the remainder I took and joined them to my stripling Ammonites, and took our march back to the city of Judea.
 
-Alma Chapter 57
+Chapter 57
 
 1 And now it came to pass that I received an epistle from Ammoron, the king, stating that if I would deliver up those prisoners of war whom we had taken that he would deliver up the city of Antiparah unto us.
 2 But I sent an epistle unto the king, that we were sure our forces were sufficient to take the city of Antiparah by our force; and by delivering up the prisoners for that city we should suppose ourselves unwise, and that we would only deliver up our prisoners on exchange.
@@ -1976,7 +1978,7 @@ Alma Chapter 57
 35 And behold, we are again delivered out of the hands of our enemies. And blessed is the name of our God; for behold, it is he that has delivered us; yea, that has done this great thing for us.
 36 Now it came to pass that when I, Helaman, had heard these words of Gid, I was filled with exceeding joy because of the goodness of God in preserving us, that we might not all perish; yea, and I trust that the souls of them who have been slain have entered into the rest of their God.
 
-Alma Chapter 58
+Chapter 58
 
 1 And behold, now it came to pass that our next object was to obtain the city of Manti; but behold, there was no way that we could lead them out of the city by our small bands. For behold, they remembered that which we had hitherto done; therefore we could not decoy them away from their strongholds.
 2 And they were so much more numerous than was our army that we durst not go forth and attack them in their strongholds.
@@ -2020,7 +2022,7 @@ Alma Chapter 58
 40 But behold, they have received many wounds; nevertheless they stand fast in that liberty wherewith God has made them free; and they are strict to remember the Lord their God from day to day; yea, they do observe to keep his statutes, and his judgments, and his commandments continually; and their faith is strong in the prophecies concerning that which is to come.
 41 And now, my beloved brother, Moroni, may the Lord our God, who has redeemed us and made us free, keep you continually in his presence; yea, and may he favor this people, even that ye may have success in obtaining the possession of all that which the Lamanites have taken from us, which was for our support. And now, behold, I close mine epistle. I am Helaman, the son of Alma.
 
-Alma Chapter 59
+Chapter 59
 
 1 Now it came to pass in the thirtieth year of the reign of the judges over the people of Nephi, after Moroni had received and had read Helaman's epistle, he was exceedingly rejoiced because of the welfare, yea, the exceeding success which Helaman had had, in obtaining those lands which were lost.
 2 Yea, and he did make it known unto all his people, in all the land round about in that part where he was, that they might rejoice also.
@@ -2036,7 +2038,7 @@ Alma Chapter 59
 12 Now this was the case with all his chief captains. They doubted and marveled also because of the wickedness of the people, and this because of the success of the Lamanites over them.
 13 And it came to pass that Moroni was angry with the government, because of their indifference concerning the freedom of their country.
 
-Alma Chapter 60
+Chapter 60
 
 1 And it came to pass that he wrote again to the governor of the land, who was Pahoran, and these are the words which he wrote, saying: Behold, I direct mine epistle to Pahoran, in the city of Zarahemla, who is the chief judge and the governor over the land, and also to all those who have been chosen by this people to govern and manage the affairs of this war.
 2 For behold, I have somewhat to say unto them by the way of condemnation; for behold, ye yourselves know that ye have been appointed to gather together men, and arm them with swords, and with cimeters, and all manner of weapons of war of every kind, and send forth against the Lamanites, in whatsoever parts they should come into our land.
@@ -2154,7 +2156,7 @@ Chapter 62
 51 And they did pray unto the Lord their God continually, insomuch that the Lord did bless them, according to his word, so that they did wax strong and prosper in the land.
 52 And it came to pass that all these things were done. And Helaman died, in the thirty and fifth year of the reign of the judges over the people of Nephi.
 
-Alma Chapter 63
+Chapter 63
 
 1 And it came to pass in the commencement of the thirty and sixth year of the reign of the judges over the people of Nephi, that Shiblon took possession of those sacred things which had been delivered unto Helaman by Alma.
 2 And he was a just man, and he did walk uprightly before God; and he did observe to do good continually, to keep the commandments of the Lord his God; and also did his brother.
