@@ -1288,6 +1288,8 @@ Chapter 37
 46 O my son, do not let us be slothful because of the easiness of the way; for so was it with our fathers; for so was it prepared for them, that if they would look they might live; even so it is with us. The way is prepared, and if we will look we may live forever.
 47 And now, my son, see that ye take care of these sacred things, yea, see that ye look to God and live. Go unto this people and declare the word, and be sober. My son, farewell.
 
+The commandments of Alma, to his son Shiblon.
+
 Chapter 38
 
 1 My son, give ear to my words, for I say unto you, even as I said unto Helaman, that inasmuch as ye shall keep the commandments of God ye shall prosper in the land; and inasmuch as ye will not keep the commandments of God ye shall be cast off from his presence.
@@ -1377,7 +1379,7 @@ Chapter 41
 14 Therefore, my son, see that you are merciful unto your brethren; deal justly, judge righteously, and do good continually; and if ye do all these things then shall ye receive your reward; yea, ye shall have mercy restored unto you again; ye shall have justice restored unto you again; ye shall have a righteous judgment restored unto you again; and ye shall have good rewarded unto you again.
 15 For that which ye do send out shall return unto you again, and be restored; therefore, the word restoration more fully condemneth the sinner, and justifieth him not at all.
 
-Chapter  42
+Chapter 42
 
 1 And now, my son, I perceive there is somewhat more which doth worry your mind, which ye cannot understand—which is concerning the justice of God in the punishment of the sinner; for ye do try to suppose that it is injustice that the sinner should be consigned to a state of misery.
 2 Now behold, my son, I will explain this thing unto thee. For behold, after the Lord God sent our first parents forth from the garden of Eden, to till the ground, from whence they were taken—yea, he drew out the man, and he placed at the east end of the garden of Eden, cherubim, and a flaming sword which turned every way, to keep the tree of life—
@@ -1411,7 +1413,7 @@ Chapter  42
 30 O my son, I desire that ye should deny the justice of God no more. Do not endeavor to excuse yourself in the least point because of your sins, by denying the justice of God; but do you let the justice of God, and his mercy, and his long-suffering have full sway in your heart; and let it bring you down to the dust in humility.
 31 And now, O my son, ye are called of God to preach the word unto this people. And now, my son, go thy way, declare the word with truth and soberness, that thou mayest bring souls unto repentance, that the great plan of mercy may have claim upon them. And may God grant unto you even according to my words. Amen.
 
-Chapter  43
+Chapter 43
 
 1 And now it came to pass that the sons of Alma did go forth among the people, to declare the word unto them. And Alma, also, himself, could not rest, and he also went forth.
 2 Now we shall say no more concerning their preaching, except that they preached the word, and the truth, according to the spirit of prophecy and revelation; and they preached after the holy order of God by which they were called.
@@ -1468,7 +1470,7 @@ Chapter  43
 53 Therefore when Zerahemnah saw the men of Lehi on the east of the river Sidon, and the armies of Moroni on the west of the river Sidon, that they were encircled about by the Nephites, they were struck with terror.
 54 Now Moroni, when he saw their terror, commanded his men that they should stop shedding their blood.
 
-Chapter  44
+Chapter 44
 
 1 And it came to pass that they did stop and withdrew a pace from them. And Moroni said unto Zerahemnah: Behold, Zerahemnah, that we do not desire to be men of blood. Ye know that ye are in our hands, yet we do not desire to slay you.
 2 Behold, we have not come out to battle against you that we might shed your blood for power; neither do we desire to bring any one to the yoke of bondage. But this is the very cause for which ye have come against us; yea, and ye are angry with us because of our religion.
@@ -1497,7 +1499,7 @@ Chapter  44
 
 The account of the people of Nephi, and their wars and dissensions, in the days of Helaman, according to the record of Helaman, which he kept in his days. 
 
-Chapter  45
+Chapter 45
 
 1 Behold, now it came to pass that the people of Nephi were exceedingly rejoiced, because the Lord had again delivered them out of the hands of their enemies; therefore they gave thanks unto the Lord their God; yea, and they did fast much and pray much, and they did worship God with exceeding great joy.
 2 And it came to pass in the nineteenth year of the reign of the judges over the people of Nephi, that Alma came unto his son Helaman and said unto him: Believest thou the words which I spake unto thee concerning those records which have been kept?
@@ -1524,7 +1526,7 @@ Chapter  45
 23 And now it came to pass that after Helaman and his brethren had appointed priests and teachers over the churches that there arose a dissension among them, and they would not give heed to the words of Helaman and his brethren;
 24 But they grew proud, being lifted up in their hearts, because of their exceeding great riches; therefore they grew rich in their own eyes, and would not give heed to their words, to walk uprightly before God.
 
-Chapter  46
+Chapter 46
 
 1 And it came to pass that as many as would not hearken to the words of Helaman and his brethren were gathered together against their brethren.
 2 And now behold, they were exceeding wroth, insomuch that they were determined to slay them.
@@ -1568,7 +1570,7 @@ Chapter  46
 40 And there were some who died with fevers, which at some seasons of the year were very frequent in the land—but not so much so with fevers, because of the excellent qualities of the I many plants and roots which God had prepared to remove the cause of diseases, to which men were subject by the nature of the climate—
 41 But there were many who died with old age; and those who died in the faith of Christ are happy in him, as we must needs suppose.
 
-Chapter  47
+Chapter 47
 
 1 Now we will return in our record to Amalickiah and those who had fled with him into the wilderness; for, behold, he had taken those who went with him, and went up in the land of Nephi among the Lamanites, and did stir up the Lamanites to anger against the people of Nephi, insomuch that the king of the Lamanites sent a proclamation throughout all his land, among all his people, that they should gather themselves together again to go to battle against the Nephites.
 2 And it came to pass that when the proclamation had gone forth among them they were exceedingly afraid; yea, they feared to displease the king, and they also feared to go to battle against the Nephites lest they should lose their lives. And it came to pass that they would not, or the more part of them would not, obey the commandments of the king.
@@ -1607,7 +1609,7 @@ Chapter  47
 35 And it came to pass that Amalickiah sought the favor of the queen, and took her unto him to wife; and thus by his fraud, and by the assistance of his cunning servants, he obtained the kingdom; yea, he was acknowledged king throughout all the land, among all the people of the Lamanites, who were composed of the Lamanites and the Lemuelites and the Ishmaelites, and all the dissenters of the Nephites, from the reign of Nephi down to the present time.
 36 Now these dissenters, having the same instruction and the same information of the Nephites, yea, having been instructed in the same knowledge of the Lord, nevertheless, it is strange to relate, not long after their dissensions they became more hardened and impenitent, and more wild, wicked and ferocious than the Lamanites—drinking in with the traditions of the Lamanites; giving way to indolence, and all manner of lasciviousness; yea, entirely forgetting the Lord their God.
 
-Chapter  48
+Chapter 48
 
 1 And now it came to pass that, as soon as Amalickiah had obtained the kingdom he began to inspire the hearts of the Lamanites against the people of Nephi; yea, he did appoint men to speak unto the Lamanites from their towers, against the Nephites.
 2 And thus he did inspire their hearts against the Nephites, insomuch that in the latter end of the nineteenth year of the reign of the judges, he having accomplished his designs thus far, yea, having been made king over the Lamanites, he sought also to reign over all the land, yea, and all the people who were in the land, the Nephites as well as the Lamanites.
@@ -1635,7 +1637,7 @@ Chapter  48
 24 Nevertheless, they could not suffer to lay down their lives, that their wives and their children should be massacred by the barbarous cruelty of those who were once their brethren, yea, and had dissented from their church, and had left them and had gone to destroy them by joining the Lamanites.
 25 Yea, they could not bear that their brethren should rejoice over the blood of the Nephites, so long as there were any who should keep the commandments of God, for the promise of the Lord was, if they should keep his commandments they should prosper in the land.
 
-Chapter  49
+Chapter 49
 
 1 And now it came to pass in the eleventh month of the nineteenth year, on the tenth day of the month, the armies of the Lamanites were seen approaching towards the land of Ammonihah.
 2 And behold, the city had been rebuilt, and Moroni had stationed an army by the borders of the city, and they had cast up dirt round about to shield them from the arrows and the stones of the Lamanites; for behold, they fought with stones and with arrows.
@@ -1669,7 +1671,7 @@ Chapter  49
 30 Yea, and there was continual peace among them, and exceeding great prosperity in the church because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman, and Shiblon, and Corianton, and Ammon and his brethren, yea, and by all those who had been ordained by the holy order of God, being baptized unto repentance, and sent forth to preach among the people.
 
 
-Chapter  50
+Chapter 50
 
 1 And now it came to pass that Moroni did not stop making preparations for war, or to defend his people against the Lamanites; for he caused that his armies should commence in the commencement of the twentieth year of the reign of the judges, that they should commence in digging up heaps of earth round about all the cities, throughout all the land which was possessed by the Nephites.
 2 And upon the top of these ridges of earth he caused that there should be timbers, yea, works of timbers built up to the height of a man, round about the cities.
@@ -1712,7 +1714,7 @@ Chapter  50
 39 Behold, it came to pass that the son of Nephihah was appointed to fill the judgment-seat, in the stead of his father; yea, he was appointed chief judge and governor over the people, with an oath and sacred ordinance to judge righteously, and to keep the peace and the freedom of the people, and to grant unto them their sacred privileges to worship the Lord their God, yea, to support and maintain the cause of God all his days, and to bring the wicked to justice according to their crime.
 40 Now behold, his name was Pahoran. And Pahoran did fill the seat of his father, and did commence his reign in the end of the twenty and fourth year, over the people of Nephi.
 
-Chapter  51
+Chapter 51
 
 1 And now it came to pass in the commencement of the twenty and fifth year of the reign of the judges over the people of Nephi, they having established peace between the people of Lehi and the people of Morianton concerning their lands, and having commenced the twenty and fifth year in peace;
 2 Nevertheless, they did not long maintain an entire peace in the land, for there began to be a contention among the people concerning the chief judge Pahoran; for behold, there were a part of the people who desired that a few particular points of the law should be altered.
@@ -1752,7 +1754,7 @@ Chapter  51
 36 And he caused that his armies should stand in readiness, lest the Lamanites had awakened and should come upon them.
 37 And thus endeth the twenty and fifth year of the reign of the judges over the people of Nephi; and thus endeth the days of Amalickiah.
 
-Chapter  52
+Chapter 52
 
 1 And now, it came to pass in the twenty and sixth year of the reign of the judges over the people of Nephi, behold, when the Lamanites awoke on the first morning of the first month, behold, they found Amalickiah was dead in his own tent; and they also saw that Teancum was ready to give them battle on that day.
 2 And now, when the Lamanites saw this they were affrighted; and they abandoned their design in marching into the land northward, and retreated with all their army into the city of Mulek, and sought protection in their fortifications.
@@ -1795,7 +1797,7 @@ Chapter  52
 39 But behold, there were many that would not; and those who would not deliver up their swords were taken and bound, and their weapons of war were taken from them, and they were compelled to march with their brethren forth into the land Bountiful.
 40 And now the number of prisoners who were taken exceeded more than the number of those who had been slain, yea, more than those who had been slain on both sides.
 
-Chapter  53
+Chapter 53
 
 1 And it came to pass that they did set guards over the prisoners of the Lamanites, and did compel them to go forth and bury their dead, yea, and also the dead of the Nephites who were slain; and Moroni placed men over them to guard them while they should perform their labors.
 2 And Moroni went to the city of Mulek with Lehi, and took command of the city and gave it unto Lehi. Now behold, this Lehi was a man who had been with Moroni in the more part of all his battles; and he was a man like unto Moroni, and they rejoiced in each other's safety; yea, they were beloved by each other, and also beloved by all the people of Nephi.
@@ -1848,7 +1850,7 @@ Chapter 54
 23 I am Ammoron, and a descendant of Zoram, whom your fathers pressed and brought out of Jerusalem.
 24 And behold now, I am a bold Lamanite; behold, this war hath been waged to avenge their wrongs, and to maintain and to obtain their rights to the government; and I close my epistle to Moroni.
 
-Chapter 
+Chapter 55
 
 1 Now it came to pass that when Moroni had received this epistle he was more angry, because he knew that Ammoron had a perfect knowledge of his fraud; yea, he knew that Ammoron knew that it was not a just cause that had caused him to wage a war against the people of Nephi.
 2 And he said: Behold, I will not exchange prisoners with Ammoron save he will withdraw his purpose, as I have stated in my epistle; for I will not grant unto him that he shall have any more power than what he hath got.
@@ -1857,7 +1859,7 @@ Chapter
 5 And it came to pass that they found one, whose name was Laman; and he was one of the servants of the king who was murdered by Amalickiah.
 6 Now Moroni caused that Laman and a small number of his men should go forth unto the guards who were over the Nephites.
 7 Now the Nephites were guarded in the city of Gid; therefore Moroni appointed Laman and caused that a small number of men should go with him.
-8 And when it was evening Laman went to the guards who were over the Nephites, and behold, they saw him coming and they hailed him; but he saith unto them: Fear not; behold, I am a Lamanite. Behold, we have escaped from the Nephites, and they sleep; and behold we have taken of their wine and brought with us.
+8 And when it was evening, Laman went to the guards who were over the Nephites, and behold, they saw him coming and they hailed him; but he saith unto them: Fear not; behold, I am a Lamanite. Behold, we have escaped from the Nephites, and they sleep; and behold we have taken of their wine and brought with us.
 9 Now when the Lamanites heard these words they received him with joy; and they said unto him: Give us of your wine, that we may drink; we are glad that ye have thus taken wine with you for we are weary.
 10 But Laman said unto them: Let us keep of our wine till we go against the Nephites to battle. But this saying only made them more desirous to drink of the wine;
 11 For, said they: We are weary, therefore let us take of the wine, and by and by we shall receive wine for our rations, which will strengthen us to go against the Nephites.
@@ -1981,7 +1983,7 @@ Chapter 57
 31 And they cried unto us, saying—Behold, the armies of the Lamanites are marching towards the city of Cumeni; and behold, they will fall upon them, yea, and will destroy our people.
 32 And it came to pass that our prisoners did hear their cries, which caused them to take courage; and they did rise up in rebellion against us.
 33 And it came to pass because of their rebellion we did cause that our swords should come upon them. And it came to pass that they did in a body run upon our swords, in the which, the greater number of them were slain; and the remainder of them broke through and fled from us.
-34 And behold, when they had fled and we could not overtake them, we took our march with speed towards the city Cumeni; and behold, we did arrive in time that we might assist our brethren in preserving the city,
+34 And behold, when they had fled and we could not overtake them, we took our march with speed towards the city Cumeni; and behold, we did arrive in time that we might assist our brethren in preserving the city.
 35 And behold, we are again delivered out of the hands of our enemies. And blessed is the name of our God; for behold, it is he that has delivered us; yea, that has done this great thing for us.
 36 Now it came to pass that when I, Helaman, had heard these words of Gid, I was filled with exceeding joy because of the goodness of God in preserving us, that we might not all perish; yea, and I trust that the souls of them who have been slain have entered into the rest of their God.
 
@@ -2084,7 +2086,7 @@ Chapter 60
 35 And behold, if ye will not do this I come unto you speedily; for behold, God will not suffer that we should perish with hunger; therefore he will give unto us of your food, even if it must be by the sword. Now see that ye fulfil the word of God.
 36 Behold, I am Moroni, your chief captain. I seek not for power, but to pull it down. I seek not for honor of the world, but for the glory of my God, and the freedom and welfare of my country. And thus I close mine epistle.
 
-Chapter 
+Chapter 61
 
 1 Behold, now it came to pass that soon after Moroni had sent his epistle unto the chief governor, he received an epistle from Pahoran, the chief governor. And these are the words which he received:
 2 I, Pahoran, who am the chief governor of this land, do send these words unto Moroni, the chief captain over the army. Behold, I say unto you, Moroni, that I do not joy in your great afflictions, yea, it grieves my soul.
