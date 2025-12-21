@@ -1,6 +1,5 @@
 Introduction to The Book of Mormon 1920 Reader's Edition
 
-
 This edition of The Book of Mormon is an independent presentation of the text, prepared for clarity and readability. It is based on the 1920 edition, a landmark printing that shaped the study habits of Latter-day Saints for much of the twentieth century. This edition seeks to preserve the wording and structure of that text while making it easier to read and follow.
 
 The traditional chapter and verse numbers have been retained for reference, yet the narrative has been arranged into paragraphs that better reflect the natural flow of the material. These paragraph breaks draw influence from the 1840 edition, the last edition overseen by Joseph Smith, as well as from internal cues in the text itself. Shifts in speaker, changes in setting, transitions in discourse, and major thematic turns have been given space that the original typesetting often constricted. The purpose of these adjustments is not to alter meaning, but to present the text in a way that supports comprehension and continuity.
